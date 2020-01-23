@@ -107,7 +107,15 @@ figure {
     text-transform: uppercase;
     margin-bottom: 3em;
     display: block;
-    width: 100%; }
+    width: 100%; } 
+/* -------------------------------------------------------------------- */
+
+#colorlib-logo a img {
+  width: 279px;
+    /* padding: 20px 13px; */
+    margin: -85px;
+}
+/* ------------------------------------------------------------------ */
     @media screen and (max-width: 768px) {
       #colorlib-aside #colorlib-logo {
         margin-bottom: 1em; } }
